@@ -1,0 +1,15 @@
+/*
+ * Compiled class files (cleass, jar, dll)
+ */
+target/
+out/
+
+/*
+ * Idea project files (IntelliJ AND, EPsilon, Android Studio, webStorm, PyCharm)
+ */
+.idea/
+.imj/
+.ipl/
+.iws/
+.emps/
+.iml/
